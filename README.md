@@ -15,11 +15,6 @@ Installs for your account only. No administrator prompt.
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.png">
-  <img src="assets/light.png" alt="Margin's settings page" width="860">
-</picture>
-
 </div>
 
 ---
