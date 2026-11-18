@@ -1,13 +1,24 @@
 <div align="center">
 
-# Margin
+<img src="assets/banner.svg" alt="Margin: a small, fast, quiet web browser for Windows" width="100%">
 
-**A small, fast, quiet web browser for Windows.**
-Tabs that glide. Pages that rise in. Nothing in the way.
+<br>
 
-[**Download the latest**](https://github.com/szcastrodombi/margin-windows-releases/releases/latest) · [All versions](https://github.com/szcastrodombi/margin-windows-releases/releases)
+[![Download](https://img.shields.io/badge/Download-latest-1b1b1d?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/szcastrodombi/margin-windows-releases/releases/latest)
+[![Version](https://img.shields.io/github/v/release/szcastrodombi/margin-windows-releases?style=for-the-badge&color=1b1b1d&label=version)](https://github.com/szcastrodombi/margin-windows-releases/releases)
+[![Downloads](https://img.shields.io/github/downloads/szcastrodombi/margin-windows-releases/total?style=for-the-badge&color=1b1b1d)](https://github.com/szcastrodombi/margin-windows-releases/releases)
+![Windows 11](https://img.shields.io/badge/Windows-11-1b1b1d?style=for-the-badge)
 
-Windows 11 · installs for your account only · no administrator prompt
+**Tabs that glide. Pages that rise in. Nothing in the way.**
+
+Installs for your account only. No administrator prompt.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.png">
+  <img src="assets/light.png" alt="Margin's settings page" width="860">
+</picture>
 
 </div>
 
