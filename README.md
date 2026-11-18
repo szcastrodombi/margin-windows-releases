@@ -54,7 +54,6 @@ Put them where you like: **down the left or right side, or across the top.** The
 - **Split View** with up to four pages side by side.
 - **Peek** at a link without leaving the page: Shift-click it.
 - **Private tabs.**
-- **Profiles,** each with its own sign-ins, history and bookmarks, in a window of its own (File › Profile).
 - Several windows (**Ctrl+N**), all of which come back after **Quit Margin (Ctrl+Q)**.
 
 ## The field
@@ -121,7 +120,7 @@ Shortcuts can be rebound under Settings › Keyboard & Mouse. You can also hold 
 
 ## Updates
 
-Once a day Margin looks at this page for a newer build, downloads it, **checks its SHA-256 checksum,** and puts it in when you quit. Nothing restarts on its own. Turn it off any time: Settings › About › *Install updates by themselves*.
+About once an hour Margin looks at this page for a newer build, downloads it, **checks its SHA-256 checksum,** and puts it in when you quit. Nothing restarts on its own. Turn it off any time: Settings › About › *Install updates by themselves*.
 
 Settings › About lists every version with what changed in it, so you can go to a newer one or an older one. Choosing an older one pauses updates until you follow the latest again.
 
